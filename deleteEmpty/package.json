@@ -11,6 +11,10 @@
     "delete empty",
     "check var"
   ],
+  "repository":{
+      "type": "git",
+      "url": "https://github.com/jindwer/abel/tree/master/deleteEmpty"
+  },
   "author": "Abel.Kennedy",
   "license": "ISC"
 }
