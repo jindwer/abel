@@ -1,0 +1,16 @@
+{
+  "name": "abel.delempty",
+  "version": "0.0.1",
+  "description": "Utility to delete empty value of variable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "empty",
+    "delete empty",
+    "check var"
+  ],
+  "author": "Abel.Kennedy",
+  "license": "ISC"
+}
