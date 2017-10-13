@@ -1,2 +1,2 @@
-# abel my npm
-Utilities 
+# modules: abel   
+> my npm: a utility
